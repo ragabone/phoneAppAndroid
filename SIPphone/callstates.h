@@ -1,0 +1,17 @@
+#ifndef CALLSTATES
+#define CALLSTATES
+
+typedef enum callState{
+    DICONNECTED = 0,
+    INCOMINGCALL,
+    CALLRINGING,
+    INCOMINGCALLTIMEOUT,
+    CALLANSWERED,
+    CALLDECLINED,
+    CALLTIMEOUT,
+    CALLCLEARED
+
+}callState;
+
+#endif // CALLSTATES
+

@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>red-lion-th.png</file>
+        <file>images/settings.png</file>
+        <file>incoming.qml</file>
+        <file>make_call.qml</file>
+        <file>skin1.qml</file>
+        <file>active.qml</file>
+        <file>activeTeleCall.qml</file>
+        <file>MyTextBox.qml</file>
+        <file>settings.qml</file>
+        <file>images/lineedit-bg.png</file>
+        <file>data/register.xml</file>
+        <file>RegSettings.qml</file>
+        <file>images/clear.png</file>
+        <file>images/answer.png</file>
+        <file>images/reject.png</file>
+        <file>images/logout13.png</file>
+        <file>ringtones/Pleasant1</file>
+        <file>data/test.m4v</file>
+        <file>images/screensaver_registered.png</file>
+        <file>vlc.sdp</file>
+    </qresource>
+</RCC>

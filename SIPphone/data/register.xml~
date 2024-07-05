@@ -1,0 +1,14 @@
+<Data>
+    <Param>
+        <ParamName>Domain</ParamName>
+        <ParamHoldingText>Domain Name or IP Address</ParamHoldingText>
+        <ParamDesc>Set the IP Address or Domain Name of the Registrar</ParamDesc>
+        <ParamValue>192.168.1.200</ParamValue>
+    </Param>
+    <Param>
+        <ParamName>Name</ParamName>
+        <ParamHoldingText>ID Name</ParamHoldingText>
+        <ParamDesc>Set the Name with which you would like to be identified as</ParamDesc>
+        <ParamValue>Front Door</ParamValue>
+    </Param>
+</Data>
